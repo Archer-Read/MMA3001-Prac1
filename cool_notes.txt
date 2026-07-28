@@ -1,0 +1,2 @@
+This is a note from my new branch.
+I found the Git branching and merging concepts interesting.
